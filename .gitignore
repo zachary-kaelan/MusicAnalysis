@@ -364,3 +364,4 @@ FodyWeavers.xsd
 
 # Results files
 *.txt
+*.csv
